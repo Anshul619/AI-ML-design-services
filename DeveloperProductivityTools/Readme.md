@@ -1,0 +1,9 @@
+# Developer Productivity Tools
+
+|                                                                                                      | Tool type                 | Adopted by | Remarks                                                                                                 |
+|------------------------------------------------------------------------------------------------------|---------------------------|------------|---------------------------------------------------------------------------------------------------------|
+| [GitHub Copilot](https://github.com/features/copilot)                                                | Code generation & review  | Swiggy     |                                                                                                         |
+| [Amazon Code Whisper](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html) | Code generation           | Swiggy     |                                                                                                         |
+| [Codegen](https://www.codegen.com/)                                                                  | Code generation           | Swiggy     | Codegen is responsible for generating 28% of the code committed!                                        |
+| [Shuttle](https://www.shuttle.rs/)                                                                   | Infrastructure Automation | Swiggy     | Tools like Shuttle handle dependency analysis, cost optimization, and business-centric CI/CD pipelines. |
+| Logrctx                                                                                              | Logs Analysis             | Swiggy     | An LLM-based tool for analyzing millions of log lines in seconds, bringing rapid insights to the team.  |
