@@ -1,11 +1,13 @@
-# Subfields
+# AI/ML Terminologies
 
-|                             | Description                                                                                                                   |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Machine Learning            | Extract data, make predictions and perform actions.<br/> Deep Learning is its subfield.                                       |
-| Natural Language Processing | Language transaction like english to chinese.                                                                                 |
-| Computer Vision             |                                                                                                                               |
-| GenAI                       | Generate texts. LLM is sub-model.                                                                                             |
-| LLM                         | A Large Language Model (LLM) is a type of artificial intelligence that can generate human language and perform related tasks. |
+|                             | Description                                                                                                                                                                                                          | Examples                                                                             |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Generative AI (GenAI)       | A broad category of AI models that can create new content such as text, images, music, code, etc.<br/>- All LLMs are GenAI, but not all GenAI are LLMs (some generate images, music, etc.).                          | ChatGPT (text), DALL·E (images), Sora (video), GitHub Copilot (code)                 |
+| Large Language Model (LLM)  | A type of Generative AI specifically trained on vast amounts of **text** to understand and generate human language.<br/>- Text-based tasks like summarization, translation, question answering, and code generation. | GPT-4, Claude, PaLM, LLaMA                                                           |
+| AI Agents                   | Software entities that can autonomously perceive, decide, and act in an environment to achieve a goal.                                                                                                               | A shopping assistant that books a trip end-to-end; Auto-GPT.                         |
+| Agentic AI                  | A subset of AI focused on autonomous agents with long-term planning, memory, tool use, and goal pursuit.                                                                                                             | OpenAI’s experiments with tool-using GPT agents; Cognosys, HyperGPT.                 |
+| Multi-Agent Systems (MAS)   | Systems where multiple AI agents interact with each other, possibly collaborating or competing to achieve goals.                                                                                                     | Multi-agent simulations, decentralized trading bots, or AI-driven game environments. |
+| Machine Learning            | Extract data, make predictions and perform actions.<br/> Deep Learning is its subfield.                                                                                                                              |                                                                                      |
+| Natural Language Processing | Language transaction like english to chinese.                                                                                                                                                                        |                                                                                      |
 
 [Read more](https://www.youtube.com/watch?v=2p5OHDxR2l8)
