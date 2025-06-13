@@ -1,7 +1,0 @@
-# Terminologies
-
-|              | Description                                                                                                                                                                                                                                      |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Quantization | [Quantization](https://www.cloudflare.com/en-gb/learning/ai/what-is-quantization/) enables machine learning models to use less memory and computing power for faster responses and reduce costs. However, it can make AI inference less precise. |
-| Pre-training |                                                                                                                                                                                                                                                  |
-| Fine-tuning  | [Fine tuning](https://medium.com/@garethcull/fine-tuning-ai-models-a-practical-guide-for-beginners-dc313b2e0f76) is a technique used to improve the performance of a pre-trained AI model on a specific task.                                    |
