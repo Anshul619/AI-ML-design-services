@@ -12,7 +12,7 @@
 | Traffic Prediction     | Traffic prediction using AI, to pre-warm infra               |                                         |
 
 # DDD & AI for better developer experience
-- Consistent [DDD modeling](../../HLD-System-Designs/7b_ArchitecturePatterns/DevPatterns/DomainDrivenDevelopment.md)
+- Consistent [DDD modeling](../../LLD-OOPs-Design-Patterns/DomainDrivenDevelopment/Readme.md)
 - Consistent Arch Patterns defined - for all services a consistent arch patterns with [protobuffs](../../HLD-System-Designs/8_APIStandards/SerializationFrameworks/ProtocolBuffers.md), standard api definitions & event driven architecture was defined.
 - Domain specific language model for code gen 
 
