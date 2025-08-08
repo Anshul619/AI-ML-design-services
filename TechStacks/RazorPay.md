@@ -13,7 +13,7 @@
 
 # DDD & AI for better developer experience
 - Consistent [DDD modeling](https://github.com/Anshul619/LLD-OOPs-Design-Patterns/tree/main/DomainDrivenDevelopment/Readme.md)
-- Consistent Arch Patterns defined - for all services a consistent arch patterns with [protobuffs](../../HLD-System-Designs/8_APIStandards/SerializationFrameworks/ProtocolBuffers.md), standard api definitions & event driven architecture was defined.
+- Consistent Arch Patterns defined - for all services a consistent arch patterns with [protobuffs](../../Serialization-Data/Frameworks/ProtocolBuffers.md), standard api definitions & event driven architecture was defined.
 - Domain specific language model for code gen 
 
 # Security in AI Modeling
