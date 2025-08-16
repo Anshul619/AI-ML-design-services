@@ -1,7 +1,7 @@
 # Generative AI 
 
 # Source types
-- [LLM](LLM.md)
+- [LLM](../FoundationalModels/LLM.md)
 - Knowledge Base
 
 # How chatgpt works?
