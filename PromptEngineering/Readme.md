@@ -5,7 +5,7 @@
 - Prompt engineers use creativity plus trial and error to create a collection of input texts, so an application's generative AI works as expected.
 
 # Why is prompt engineering important?
-- Prompt engineering jobs have increased significantly since the launch of [generative AI](GenAI.md). 
+- Prompt engineering jobs have increased significantly since the launch of [generative AI](../GenAI/Readme.md). 
 - Prompt engineers bridge the gap between your end users and the [large language model](../FoundationalModels/LLM.md).
 
 |                           | Description                                                                                                    |
@@ -23,4 +23,12 @@
 
 # GenAI Tech Stack
 
-![](GenAITechStack.drawio.png)
+![](../GenAITechStack.drawio.png)
+
+# Prompt High Design
+
+![](assets/RAG-High-Level.png)
+
+# Prompt Low Design
+
+![](assets/RAG-Low-Design.png)
