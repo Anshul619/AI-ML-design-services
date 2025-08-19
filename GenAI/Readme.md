@@ -1,4 +1,5 @@
 # Generative AI 
+- Generative artificial intelligence (generative AI) is a branch of machine learning (ML).
 
 # Source types
 - [LLM](../FoundationalModels/LLM.md)
