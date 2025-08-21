@@ -6,7 +6,7 @@
 
 # Why is prompt engineering important?
 - Prompt engineering jobs have increased significantly since the launch of [generative AI](../GenAI/Readme.md). 
-- Prompt engineers bridge the gap between your end users and the [large language model](../FoundationalModels/LLM.md).
+- Prompt engineers bridge the gap between your end users and the [large language model](../Foundational-Models/LLM.md).
 
 |                           | Description                                                                                                    |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|

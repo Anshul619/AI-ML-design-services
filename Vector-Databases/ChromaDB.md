@@ -4,4 +4,4 @@
 - Retrieval that just works. As it should be.
 - It uses LangChain, to connect to LLM models (Gemini).
 
-![](../PromptEngineering/assets/RAG-Low-Design.png)
+![](../Prompt-Engineering/assets/RAG-Low-Design.png)

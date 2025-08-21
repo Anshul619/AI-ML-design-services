@@ -1,4 +1,4 @@
-# ML
+# Machine Learning
 - ML is training a computer to recognize patterns in historical data to make predictions on new data. 
 - These predictions are then used to take business actions.
 

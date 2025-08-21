@@ -7,7 +7,7 @@
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pre-training       | During the training stage, FMs use self-supervised learning or reinforcement learning from human feedback (RLHF), to capture data from vast datasets. (large amount of unlabeled data)                                                            |                                                                                      |
 | Fine-tuning        | [Fine tuning](FineTuning.md) is a technique used to improve the performance of a pre-trained AI model on a specific task.                                                                                                                         |                                                                                      |
-| Prompt Engineering | [Prompt engineering](../PromptEngineering/Readme.md) is a more efficient and faster way to tune LLM responses (with guidance, practices, parameter settings), as opposed to fine-tuning, which requires labeled data and training infrastructure. |
+| Prompt Engineering | [Prompt engineering](../Prompt-Engineering/Readme.md) is a more efficient and faster way to tune LLM responses (with guidance, practices, parameter settings), as opposed to fine-tuning, which requires labeled data and training infrastructure. |
 
 # Types of FMs
 

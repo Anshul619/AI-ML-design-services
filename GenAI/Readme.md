@@ -2,7 +2,7 @@
 - Generative artificial intelligence (generative AI) is a branch of machine learning (ML).
 
 # Source types
-- [LLM](../FoundationalModels/LLM.md)
+- [LLM](../Foundational-Models/LLM.md)
 - Knowledge Base
 
 # How chatgpt works?
