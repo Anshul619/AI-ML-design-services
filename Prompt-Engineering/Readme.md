@@ -8,7 +8,7 @@
 - Prompt engineering jobs have increased significantly since the launch of [generative AI](../Generative-AI/Readme.md). 
 - Prompt engineers bridge the gap between your end users and the [large language model](../Foundational-Models/LLM.md).
 
-|                           | Description                                                                                                    |
+| Title                     | Description                                                                                                    |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
 | Greater developer control | Prompt engineering gives developers more control over users' interactions with the AI.                         |
 | Improved user experience  | Users avoid trial and error and still receive coherent, accurate, and relevant responses from AI tools.        |
