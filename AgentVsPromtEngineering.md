@@ -1,7 +1,7 @@
 # Prompt vs Agent based AI
 
 | Feature         | Prompt-based AI                 | Agent-based AI                       |
-|-----------------| ------------------------------- | ------------------------------------ |
+|-----------------|---------------------------------|--------------------------------------|
 | **Interaction** | One-shot Q\&A                   | Multi-step reasoning                 |
 | **Autonomy**    | Low                             | High                                 |
 | **Memory**      | Session-based                   | Persistent (sometimes)               |

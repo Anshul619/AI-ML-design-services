@@ -17,9 +17,9 @@ Product C: 1 unit
 Fulfillment status:
 ````
 
-|                  | Example                                                                                                                                |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Instructions     | Given a list of customer orders and available inventory, determine which orders can be fulfilled and which items have to be restocked. |
-| Context          | This task is essential for inventory management and order fulfillment processes in ecommerce or retail businesses.                     |
-| Input data       | Orders:... Inventory:...                                                                                                               |
-| Output indicator | Fulfillment status:                                                                                                                    |
+|                                                | Example                                                                                                                                |
+|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Instructions                                   | Given a list of customer orders and available inventory, determine which orders can be fulfilled and which items have to be restocked. |
+| [Context](../../Context-Engineering/Readme.md) | This task is essential for inventory management and order fulfillment processes in ecommerce or retail businesses.                     |
+| Input data                                     | Orders:... Inventory:...                                                                                                               |
+| Output indicator                               | Fulfillment status:                                                                                                                    |

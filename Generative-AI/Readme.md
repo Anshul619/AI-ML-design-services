@@ -1,5 +1,6 @@
-# Generative AI 
-- Generative artificial intelligence (generative AI) is a branch of [machine learning (ML)](../MachineLearning.md).
+# Generative AI
+- [Generative AI](../Generative-AI/Readme.md) is an artificial intelligence solution that creates new content like stories, conversations, videos, images, and music.
+- It's powered by very large [machine learning (ML) models](../Foundational-Models/LLM.md) that use deep neural networks that have been pretrained on vast amounts of data.
 
 # Source types
 - [LLM](../Foundational-Models/LLM.md)

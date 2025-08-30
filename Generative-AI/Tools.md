@@ -1,6 +1,6 @@
 # Various GenAI tools
 
-|                           | Description                                                                    |
+| Title                     | Description                                                                    |
 |---------------------------|--------------------------------------------------------------------------------|
 | ChatGPT                   | Better with test cases generation, than Cursor                                 |
 | Github Copilot            |                                                                                |

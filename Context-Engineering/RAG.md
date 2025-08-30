@@ -3,7 +3,3 @@
 - It modifies interactions with a [large language model (LLM)](../Foundational-Models/LLM.md) so that the model responds to user queries with reference to a specified set of documents, using this information in preference to information drawn from its own vast, static training data. 
 
 ![](assets/RAG-High-Level.png)
-
-# Low Level design
-
-![](assets/RAG-Low-Design.png)

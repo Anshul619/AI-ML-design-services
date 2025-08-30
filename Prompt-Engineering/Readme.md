@@ -16,7 +16,7 @@
 
 # Terminologies
 
-|                                    | Description                                                                                                                                                                                                                                |
+|                                    | Remarks                                                                                                                                                                                                                                    |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Components](Components/Readme.md) |                                                                                                                                                                                                                                            |
 | Negative prompting                 | Negative prompting is used to guide the model away from producing certain types of content or exhibiting specific behaviors. <br/>- It involves providing the model with examples or instructions about what it should not generate or do. |
@@ -25,10 +25,5 @@
 
 ![](../GenAITechStack.drawio.png)
 
-# Prompt High Design
-
-![](assets/RAG-High-Level.png)
-
-# Prompt Low Design
-
-![](assets/RAG-Low-Design.png)
+# References
+- [OpenAI - Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
