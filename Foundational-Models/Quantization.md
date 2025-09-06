@@ -1,0 +1,2 @@
+# Quantization
+- [Fitting AI models in your pocket with quantization](https://stackoverflow.blog/2023/08/23/fitting-ai-models-in-your-pocket-with-quantization/) -Some of the tools and techniques they use to fit GenAI models on a smartphone.

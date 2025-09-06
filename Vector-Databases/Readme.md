@@ -7,3 +7,4 @@
 # List
 - [pgvector](https://github.com/pgvector/pgvector)
 - [Pinecone](https://www.pinecone.io/)
+- [Faiss (In-Memory)](https://github.com/facebookresearch/faiss)
