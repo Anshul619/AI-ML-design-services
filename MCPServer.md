@@ -4,6 +4,11 @@
 
 ![](https://mintcdn.com/mcp/4ZXF1PrDkEaJvXpn/images/mcp-simple-diagram.png?w=1100&fit=max&auto=format&n=4ZXF1PrDkEaJvXpn&q=85&s=0a319cb6a2504659377de862e889b8da)
 
+# Transport types
+- stdio (stdin/stdout)
+- sse (server-sent events)
+- http, websocket, etc.
+
 # Supercharging AWS database development with AWS MCP servers
 
 ![](https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2025/06/26/image-1-29.png)
