@@ -4,15 +4,17 @@
 - It also includes reference guides, and real-world **use cases** for AI-driven solutions.
 
 # ✨ Features
-- 📂 Organized knowledge base for **AI/ML engineering practices**
-- ⚙️ [Agent Engineering](Agent-Engineering/Readme.md) — design, build, and orchestrate intelligent agents
-- 📝 [Prompt Engineering](Prompt-Engineering/Readme.md) — strategies for effective LLM prompting
-- 🔗 [Context Engineering](Context-Engineering/Readme.md) — managing memory, retrieval, and grounding
-- 🧩 [Vector Databases](Vector-Databases/Readme.md) — integrations and design considerations
-- 🛠️ [MCP Server](MCP/Readme.md) — extend AI assistants with custom tools and protocols
-- ☁️ [AWS Services](AWS-Services) — cloud-native AI/ML infrastructure patterns
-- 🌐 [Tech Stacks for Live Apps](Tech-Stacks-Live-Apps) — combining models, databases, and APIs
-- 🎯 [Use Cases](UseCases.md) — practical applications across industries
+
+|                                                         | Remarks                                              |
+|---------------------------------------------------------|------------------------------------------------------|
+| ⚙️ [Agent Engineering](Agent-Engineering/Readme.md)     | Design, build, and orchestrate intelligent agents    |
+| 📝 [Prompt Engineering](Prompt-Engineering/Readme.md)   | Strategies for effective LLM prompting               |
+| 🔗 [Context Engineering](Context-Engineering/Readme.md) | Managing memory, retrieval, and grounding            |
+| 🧩 [Vector Databases](Vector-Databases/Readme.md)       | Integrations and design considerations               |
+| 🛠️ [MCP Server](MCP/Readme.md)                         | Extend AI assistants with custom tools and protocols |
+| ☁️ [AWS Services](AWS-Services)                         | Cloud-native AI/ML infrastructure patterns           |
+| 🌐 [Tech Stacks for Live Apps](Tech-Stacks-Live-Apps)   | Combining models, databases, and APIs                |
+| 🎯 [Use Cases](UseCases.md)                             | Practical applications across industries             |
 
 # References
 - [Getting Started with Generative AI and Foundation Models](https://d1.awsstatic.com/products/generative-ai/getting-started-with-generative-ai-and-foundation-models.pdf)
