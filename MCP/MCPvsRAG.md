@@ -1,12 +1,11 @@
 # MCP vs RAG
 
-| Aspect              | MCP (Model Context Protocol)                                 | RAG                                   |
+| Aspect              | MCP (Model Context Protocol)                                 | RAG (Retrieval-Augmented generation)  |
 |---------------------|--------------------------------------------------------------|---------------------------------------|
 | Purpose             | Standardize/structure model input context                    | Retrieve external info for the model  |
 | Scope               | Broader: includes memory, prompt, instructions, context flow | Narrower: fetching relevant knowledge |
 | Context Engineering | Yes, formal protocol for organizing context                  | Yes, but only via retrieval           |
 | Interaction         | Can manage multi-turn, dynamic context                       | Usually stateless retrieval per query |
-
 
 # High level diagram
 

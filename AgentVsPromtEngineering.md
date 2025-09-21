@@ -2,7 +2,7 @@
 
 | Feature         | Prompt-based AI                 | Agent-based AI                       |
 |-----------------|---------------------------------|--------------------------------------|
-| **Interaction** | One-shot Q\&A                   | Multi-step reasoning                 |
+| **Interaction** | One-shot Q&A                    | Multi-step reasoning                 |
 | **Autonomy**    | Low                             | High                                 |
 | **Memory**      | Session-based                   | Persistent (sometimes)               |
 | **Tools Use**   | Limited                         | Broad (APIs, web, apps)              |
