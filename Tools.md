@@ -15,6 +15,10 @@
 | [Claude Code](https://claude.com/product/claude-code)        | IDE Plugin / Copilot | Unleash Claude’s raw power directly in your terminal.<br/>- Search million-line codebases instantly.<br/>- Turn hours-long workflows into a single command. |
 | [Design Arena](https://www.designarena.ai/)                  | Vibe Coding          |                                                                                                                                                             |
 | [v0 by vercel](https://v0.app/)                              | Vibe Coding          |                                                                                                                                                             |
+| [Gemini](https://gemini.google.com/app)                      | Chat Assistant       |                                                                                                                                                             |
+| [grok](https://grok.com/)                                    | Chat Assistant       |                                                                                                                                                             |
+| [Microsoft Copilot](https://copilot.microsoft.com/)          | Chat Assistant       |                                                                                                                                                             |
+| [deepseek](https://www.deepseek.com/en)                      | Chat Assistant       |                                                                                                                                                             |
 
 # Reference
 - [Cursor alternative?](https://newsletter.pragmaticengineer.com/p/cursor?utm_source=substack&publication_id=458709&post_id=165641889&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=1o6rh0&triedRedirect=true)
