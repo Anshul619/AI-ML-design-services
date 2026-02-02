@@ -23,3 +23,4 @@
 # Reference
 - [Cursor alternative?](https://newsletter.pragmaticengineer.com/p/cursor?utm_source=substack&publication_id=458709&post_id=165641889&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=1o6rh0&triedRedirect=true)
 - [Vibe code with AWS databases using Vercel v0](https://aws.amazon.com/blogs/database/vibe-code-with-aws-databases-using-vercel-v0/)
+- [How We Measured AI Tooling Productivity Gain Across 250+ Engineers at Apollo.io?](https://www.apollo.io/tech-blog/how-we-measured-ai-tooling-productivity-gain-across-250-engineers-at-apolloio)
