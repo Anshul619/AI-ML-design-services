@@ -7,6 +7,7 @@
 | Gemini Flesh model                | Google         |
 | DeepSeek models                   |                |
 | OCI Models                        |                |
+| AWS Nova                          | AWS            |
 
 # Model hosting
 

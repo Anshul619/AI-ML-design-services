@@ -1,4 +1,5 @@
 # MCP vs RAG
+- RAG is like a component you could use within an MCP system, but MCP is broader - it defines how all context is structured, updated, and delivered to the model.
 
 | Aspect              | MCP (Model Context Protocol)                                 | RAG (Retrieval-Augmented generation)  |
 |---------------------|--------------------------------------------------------------|---------------------------------------|
@@ -57,6 +58,3 @@
             ┌──────────────────┐
             │   User Response  │
             └──────────────────┘
-
-# Summary
-- RAG is like a component you could use within an MCP system, but MCP is broader - it defines how all context is structured, updated, and delivered to the model.
