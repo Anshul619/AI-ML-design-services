@@ -19,6 +19,8 @@
 | [grok](https://grok.com/)                                    | Chat Assistant       |                                                                                                                                                             |
 | [Microsoft Copilot](https://copilot.microsoft.com/)          | Chat Assistant       |                                                                                                                                                             |
 | [deepseek](https://www.deepseek.com/en)                      | Chat Assistant       |                                                                                                                                                             |
+| [WindSurf](https://windsurf.com)                             | IDE Plugin / Copilot |                                                                                                                                                             |
+| [Google Antigravity](https://antigravity.google)             | IDE Plugin / Copilot |                                                                                                                                                             |
 
 # Reference
 - [Cursor alternative?](https://newsletter.pragmaticengineer.com/p/cursor?utm_source=substack&publication_id=458709&post_id=165641889&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=1o6rh0&triedRedirect=true)
