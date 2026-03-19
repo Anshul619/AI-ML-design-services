@@ -1,0 +1,5 @@
+# AI driven development
+
+| Title                                                       | Description                                                                                                                                                                                                                                                                  |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | Build More Architect Dreams — An AI-driven agile development module for the BMad Method Module Ecosystem, the best and most comprehensive Agile AI Driven Development framework that has true scale-adaptive intelligence that adjusts from bug fixes to enterprise systems. |
