@@ -34,3 +34,7 @@ Use this skill when the user needs to work with PDF files...
 ## How to fill forms
 ...
 ````
+
+# References
+- [Mattpocock - Skills For Real Engineers](https://github.com/mattpocock/skills/tree/main)
+- [The Agent Skills Directory](https://skills.sh/)
